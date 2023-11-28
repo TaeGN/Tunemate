@@ -10,7 +10,7 @@
 
 친구를 사귀고 함께 플레이리스트를 만들어 나가 보세요
 
-![TuneMate_](/uploads/9a5a9570ee779fffbcb0e5a57fcd9333/TuneMate_.png)
+![image](https://github.com/TaeGN/Tunemate/assets/110441723/dfcc9156-6d17-45e5-b75f-0eddfc8e2a6d)
 
 ## 💡 주요기능
 
@@ -36,9 +36,9 @@
 - 내 프로필
 
 <p align="center">  
-<img src="/uploads/09225bab11f03f692ea7bee5bb29cfbb/KakaoTalk_20231120_151933572.png"  width="200" height="400"/>
-<img src="/uploads/318f4f4a953039c4cc7a8a39fb444cb9/KakaoTalk_20231120_151955626.png"  width="200" height="400"/>
-<img src="/uploads/edf4b2583f63aafb5f2c9db002d75eac/KakaoTalk_20231120_152010120.png"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/708326a3-86bb-40be-bd53-bbb9c087fc3e"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/223689c1-529d-4af8-b1ef-8a297093fabe"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/8ae802ad-24b3-495b-913a-93ab50888542"  width="200" height="400"/>
 </p>
 
 ---
@@ -48,12 +48,10 @@
 - 곡 추가
 - 플레이리스트 순서 변경
 <p align="center">  
-<img src="/uploads/d4998969c6225ea890d9634de23b4ac8/KakaoTalk_20231120_152027611.png"  width="200" height="400"/>
-<img src="/uploads/168b6891f32606bff37bc5ba9c9f7e94/KakaoTalk_20231120_152049220.png"  width="200" height="400"/>
-<img src="/uploads/4f01998ba5c87ef4bd8f5bee07e7bf88/KakaoTalk_20231120_152123131.png"  width="200" height="400"/>
-
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/f380e0c3-410f-4a12-bc11-3bfdfc908cfc"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/3399c113-c4fd-44da-9ae2-1ca2c086c61b"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/7cdc8892-75cf-41b6-8496-9fc713769ee0"  width="200" height="400"/>
 </p>
-
 ---
 <br>
 
@@ -61,11 +59,10 @@
 - 친구 추천 화면
 - 공고 모집 목록
 <p align="center">
-<img src="/uploads/5d23dcc409e711f161a7799122010e1d/KakaoTalk_20231120_152152304.png"  width="200" height="400"/>
-<img src="/uploads/5b45ca072c7c03e9c0b88a2bba5fa352/KakaoTalk_20231120_152215791.png"  width="200" height="400"/>
-<img src="/uploads/a5cffd3b3c87571e71c5be7e1fefa65c/Architecture.png"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/c5f6596c-f3c2-4c0a-983c-8ccabd69a3be"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/2085edd9-e6bf-426c-a196-ff9adbd73005"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/c1086156-75da-49d1-93cf-bebd1094f0c1"  width="200" height="400"/>
 </p>
-
 ---
 <br>
 
@@ -74,10 +71,10 @@
 - 플레이리스트 화면
 - 플레이리스트 화면 2
 <p align="center">
-<img src="/uploads/372c891f4bdfaf0dec7ae74a74813c59/KakaoTalk_20231120_152246967.png"  width="200" height="400"/>
-<img src="/uploads/28fd622d9bdeced0ead61c3dedd4cada/KakaoTalk_20231120_152303063.png"  width="200" height="400"/>
-<img src="/uploads/b994867abdd4b33d41637acdedb84fe9/KakaoTalk_20231120_152317391.png"  width="200" height="400"/>
-<img src="/uploads/2d53c3f47082855fba542683401b7ecf/KakaoTalk_20231120_152339130.png"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/21710e4f-810e-404a-bed7-63b0caa872a6"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/bbf83928-1495-4c14-b3e2-8c8ceccb2d62"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/90d03840-fac2-4e1c-b273-9523a64c1177"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/d96bbeb7-eee3-4fbb-884e-932257dbeac6"  width="200" height="400"/>
 </p>
 
 ---
@@ -88,10 +85,9 @@
 - 공동 플레이리스트 곡 추가(유저 2)
 
 <p align="center">
-<img src="/uploads/8ccb68796f0d306df4ef5f0bf55bc784/채팅2.gif"  width="200" height="400"/>
-<img src="/uploads/16b7de3819b281d3215d1f2a60256451/공동플리1곡추가.gif"  width="200" height="400"/>
-<img src="/uploads/79f2d4d234a369e3a4e9357d8d488a95/공동플리2곡추가.gif"  width="200" height="400"/>
-
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/609e5bb5-2cb6-4683-aeea-6c514d1944a2"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/e8d3ffcd-4292-437e-b7ef-42209cb221e2"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/d2078cc9-4202-4f66-b981-794b7d826fe9"  width="200" height="400"/>
 </p>
 
 ---
@@ -101,9 +97,8 @@
 - 공동 플레이리스트 곡 위치 변경(유저 2)
 
 <p align="center">
-<img src="/uploads/429e056b8e8f23ddf76d8a4a253a507f/공동플리1곡위치변경.gif"  width="200" height="400"/>
-<img src="/uploads/761c020b28ab0a627312bacd4edd8e86/공동플리2곡위치변경.gif"  width="200" height="400"/>
-
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/d00211a8-4b88-4e8d-9c79-4e3d85ffcd43"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/17004a9f-7276-443a-8dd1-2a6cd95cea64"  width="200" height="400"/>
 </p>
 
 ---
@@ -113,15 +108,14 @@
 - 공동 플레이리스트 곡 삭제(유저 2)
 
 <p align="center">
-<img src="/uploads/c463220d9bcc7d776b0799220651c4c7/공동플리1곡삭제.gif"  width="200" height="400"/>
-<img src="/uploads/16bf320e249aa2c88237ba50c8cbb49c/공동플리2곡삭제.gif"  width="200" height="400"/>
-
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/ba0afaf9-c484-42fc-90d7-a3ad3f4eec2d"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/d0d3f5a8-e8c9-449a-9de4-da0dae0ed8b3"  width="200" height="400"/>
 </p>
 
 
 ## 🐳 아키텍처
 
-![Architecture](/uploads/d75e66e5ae9c438314ddd03f7fe2f006/Architecture.png)
+![image](https://github.com/TaeGN/Tunemate/assets/110441723/80febaa8-0779-4bc5-b1de-70284b8c3423)
 
 ## 🛠️ 기술스택
 
@@ -181,5 +175,6 @@
 
 ## 👨‍💻 팀원 소개
 
-![image](/uploads/a10a32cf6b48dafaa84ead1a1b0310c4/image.png)
-![image](/uploads/53ac98bc0062883b649ed000f4216774/image.png)
+
+![image](https://github.com/TaeGN/Tunemate/assets/110441723/e6719f91-ea0f-4f80-b4aa-2bde9a6f097d)
+![image](https://github.com/TaeGN/Tunemate/assets/110441723/76954747-479b-432a-92b1-96eefb566020)
