@@ -85,9 +85,9 @@
 - 공동 플레이리스트 곡 추가(유저 2)
 
 <p align="center">
-<img src="https://github.com/TaeGN/Tunemate/assets/110441723/609e5bb5-2cb6-4683-aeea-6c514d1944a2"  width="200" height="400"/>
-<img src="https://github.com/TaeGN/Tunemate/assets/110441723/e8d3ffcd-4292-437e-b7ef-42209cb221e2"  width="200" height="400"/>
-<img src="https://github.com/TaeGN/Tunemate/assets/110441723/d2078cc9-4202-4f66-b981-794b7d826fe9"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/84fad3c7-302a-4a89-be63-f3cd6a028020"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/b9c5f1be-6c9a-4670-84e3-9d7580223994"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/1bebce4d-84cb-47af-98fe-c2f8255f63f8"  width="200" height="400"/>
 </p>
 
 ---
@@ -97,8 +97,8 @@
 - 공동 플레이리스트 곡 위치 변경(유저 2)
 
 <p align="center">
-<img src="https://github.com/TaeGN/Tunemate/assets/110441723/d00211a8-4b88-4e8d-9c79-4e3d85ffcd43"  width="200" height="400"/>
-<img src="https://github.com/TaeGN/Tunemate/assets/110441723/17004a9f-7276-443a-8dd1-2a6cd95cea64"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/e8126883-b622-4caf-a6a6-f3b982adfa20"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/54cc2cfd-c086-428d-8248-ff9de55c3a28"  width="200" height="400"/>
 </p>
 
 ---
@@ -108,8 +108,8 @@
 - 공동 플레이리스트 곡 삭제(유저 2)
 
 <p align="center">
-<img src="https://github.com/TaeGN/Tunemate/assets/110441723/ba0afaf9-c484-42fc-90d7-a3ad3f4eec2d"  width="200" height="400"/>
-<img src="https://github.com/TaeGN/Tunemate/assets/110441723/d0d3f5a8-e8c9-449a-9de4-da0dae0ed8b3"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/98b81232-7d3e-4619-a800-2f880a4e9b5d"  width="200" height="400"/>
+<img src="https://github.com/TaeGN/Tunemate/assets/110441723/eeb3adca-90e8-4641-a377-9e3d0f44c319"  width="200" height="400"/>
 </p>
 
 
