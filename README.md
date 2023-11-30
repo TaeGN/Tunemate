@@ -141,16 +141,21 @@
 
 `Data`
 
-- mySQL
+- MySQL
 - Redis
 - MongoDB
 
 `Frontend`
 
-- visual Studio Code IDE
+- Visual Studio Code IDE
+- React.js
+- TypeScript
 - Next.js
-- React
-- Bootstrap
+- React Query
+- Recoil
+- Stomp.js
+- PWA
+- CSS Module
 - Spotify API
 
 `Infra`
@@ -168,6 +173,7 @@
 - Notion
 - Jira
 - Mattermost
+- Figma
 
 ## 📅 프로젝트 진행 기간
 
