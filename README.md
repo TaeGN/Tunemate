@@ -52,6 +52,7 @@
 <img src="https://github.com/TaeGN/Tunemate/assets/110441723/3399c113-c4fd-44da-9ae2-1ca2c086c61b"  width="200" height="400"/>
 <img src="https://github.com/TaeGN/Tunemate/assets/110441723/7cdc8892-75cf-41b6-8496-9fc713769ee0"  width="200" height="400"/>
 </p>
+
 ---
 <br>
 
@@ -63,6 +64,7 @@
 <img src="https://github.com/TaeGN/Tunemate/assets/110441723/2085edd9-e6bf-426c-a196-ff9adbd73005"  width="200" height="400"/>
 <img src="https://github.com/TaeGN/Tunemate/assets/110441723/c1086156-75da-49d1-93cf-bebd1094f0c1"  width="200" height="400"/>
 </p>
+
 ---
 <br>
 
